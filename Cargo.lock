@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "solana-units"
+name = "sol_units"
 version = "0.1.0"

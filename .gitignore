@@ -1,1 +1,5 @@
 /target
+.idea/modules.xml
+.idea/sol_units.iml
+.idea/vcs.xml
+.idea/workspace.xml
